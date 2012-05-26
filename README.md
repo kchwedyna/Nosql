@@ -14,7 +14,7 @@
 3.uruchomienie mongotocouch.sh przeniesienie danych do couchdb<br> 
  <b> <code>$ ./mongotocouch.sh</code></b> <br> 
 4.uruchomienie map.py  wyświetlenie informacji o bazie<br> 
-<b><code>$ pythno map.py</code></b>  <br> 
+<b><code>$ python map.py</code></b>  <br> 
 <hr>
 
 <h3>WYMAGANIA :</h3><br> 
