@@ -6,9 +6,6 @@
 5.map.py Wyswietlenie ilośći rekordów w bazie, wyświetlenie ilości dostępnych i niedostępnych  modeli opon,wyswietlanie niedostępnych modeli<br>
 <br> 
 <hr>
-<h3>WYMAGANIA :</h3><br> 
-Couchdb , Mongodb , Python <br>
-<hr>
 <h3>INSTRUKCJA</h3><br> 
 1.uruchomienie skryptu konw.sh<br> 
   <b> ./konw.sh</b><br> 
@@ -18,3 +15,7 @@ Couchdb , Mongodb , Python <br>
  <b>  ./mongotocouch.sh</b> <br> 
 4.uruchomienie map.py  wyświetlenie informacji o bazie<br> 
 <b> pythno map.py</b>  <br> 
+<hr>
+
+<h3>WYMAGANIA :</h3><br> 
+Couchdb , Mongodb , Python <br>
