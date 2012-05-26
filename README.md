@@ -5,11 +5,10 @@
 4.mongotocouch.sh Przenoszenie danych z bazy mongodb do couchdb<br>
 5.map.py Wyswietlenie ilośći rekordów w bazie, wyświetlenie ilości dostępnych i niedostępnych  modeli opon,wyswietlanie niedostępnych modeli<br>
 <br> 
-<hr><br>
+<hr>
 <h3>WYMAGANIA :</h3><br> 
 Couchdb , Mongodb , Python <br>
-
-<br> <hr>
+<hr>
 <h3>INSTRUKCJA</h3><br> 
 1.uruchomienie skryptu konw.sh<br> 
   <b> ./konw.sh</b><br> 
