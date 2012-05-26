@@ -10,11 +10,11 @@
 1.uruchomienie skryptu konw.sh<br> 
   <b><code>$ ./konw.sh</code></b><br> 
 2.uruchomienie imongo.sh importowanie danych do mongo<br> 
-  <b> code>$ ./imongo.sh</code></b> <br> 
+  <b> <code>$ ./imongo.sh</code></b> <br> 
 3.uruchomienie mongotocouch.sh przeniesienie danych do couchdb<br> 
- <b> code>$ ./mongotocouch.sh</code></b> <br> 
+ <b> <code>$ ./mongotocouch.sh</code></b> <br> 
 4.uruchomienie map.py  wyświetlenie informacji o bazie<br> 
-<b>code>$ pythno map.py</code></b>  <br> 
+<b><code>$ pythno map.py</code></b>  <br> 
 <hr>
 
 <h3>WYMAGANIA :</h3><br> 
